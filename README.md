@@ -32,9 +32,9 @@ Hey there! I'm IStay! I am a full stack developer!
   
 -------------------
   
-![IStayThatWayCoding github stats](https://github-readme-stats.vercel.app/api?username=IStayThatWayCoding&show_icons=true&theme=radical&count_private=true&include_all_commits=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=istaythatwaycoding&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="istaythatwaycoding" /></p>
 
-![LIStayThatWayCoding github streak](https://github-readme-streak-stats.herokuapp.com/?user=IStayThatWayCoding&theme=radical&include_all_commits=true&count_private=true)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=istaythatwaycoding&show_icons=true&theme=synthwave&locale=en" alt="istaythatwaycoding" /></p>
 
  <div>
 
