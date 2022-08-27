@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **IStayThatWayCoding/istaythatwaycoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,10 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-  
-## About
-Hey there! I'm IStay! I am a full stack developer!
+<h1 align="center">Hi There, I'm IStay!</h1>
+<h3 align="center">A full stack and ...interesting Developer!</h3>
 
 -------------------
 
