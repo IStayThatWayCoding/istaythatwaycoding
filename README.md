@@ -16,7 +16,7 @@
   
 -------------------
   
-- 🔭 I’m currently working on [IStay's Utilities](https://www.github.com/istaythatwaycoding/istays-utilities)
+- 🔭 I’m currently working on [IStay's Utilities](https://www.google.com)
 - 🌱 I’m currently learning [Ruby](https://www.ruby-lang.org/en/)
 - 📫 How to reach me: [Discord](https://www.dsc.gg/istay)
 - 😄 Pronouns: He/Him
