@@ -16,15 +16,17 @@
   
 
  
-- 🌱 I’m currently learning [Ruby](https://www.ruby-lang.org/en/)
-- 📫 How to reach me: [Discord](https://www.dsc.gg/istay)
-- 😄 Pronouns: He/Him
+
   
 -------------------
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=istaythatwaycoding&show_icons=true&theme=synthwave&locale=en&layout=compact" alt="istaythatwaycoding" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=istaythatwaycoding&show_icons=true&theme=synthwave&locale=en" alt="istaythatwaycoding" /></p>
+  
+  - 🌱 I’m currently learning [Ruby](https://www.ruby-lang.org/en/)
+- 📫 How to reach me: [Discord](https://www.dsc.gg/istay)
+- 😄 Pronouns: He/Him
 
  <div>
 
