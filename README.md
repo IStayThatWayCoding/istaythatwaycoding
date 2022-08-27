@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi There, I'm IStay!</h1>
-<h3 align="center">A full stack and ...interesting Developer!</h3>
+<h3 align="center">A full stack Developer!</h3>
 
 -------------------
 
